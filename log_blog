@@ -22,4 +22,13 @@ To-do list (due 1/13):
 3. Attend Weekly Whiteboarding for HB-Alum
 
 
+NOTES:
+8Jan2016
+- [Day 1] Hackbright Crash Course: What is the internet?
+	- Transmission Control Protocol (TCP), Internet Protocol (IP)
+	- 1958 Sputnik --> Eisenhower ARPA --> 1969 ARPANET 
+		- goal to create "intergalactice computer network"
+	- Internet: harware & protocols, computers & rules
+	- World Wide Web: Way of sharing info over internet, uses HTTP to tx/rx data
 
+	"A ship in port is safe, but that is not what ships are for. Sail out to sea and do new things." - Grace Hopper (Rear Admiral; also coined the term "computer bug")
