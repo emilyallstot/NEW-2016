@@ -44,4 +44,12 @@ NOTES:
 	 - Binary Tree: Balanced or unbalanced?
 	 - Runtime O(?)
 
+- [Day 2] Hackbright Crash Course: What's the deal with websites vs. webapps?
+	- Websites: Static, viewed passively
+		- Front-end programming languages (e.g. HTML, CSS, Javascript)
+	- Webapps: Dynamic, something you interact with
+		- Front-end programming languages for user interface, 
+		- Back-end programming languages (e.g. Ruby, Python, PHP, SQL)
+
+"I think it's very important to get more women into computing. My slogan is: Computing is too important to be left to men." - Karen Spärk Jones (Cambridge Computer Laboratory, invented IDF [Intermediate Distribution Frame])
 
