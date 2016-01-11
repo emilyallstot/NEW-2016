@@ -22,6 +22,7 @@ To-do list (due 1/13):
 3. Attend Weekly Whiteboarding for HB-Alum
 
 
+
 NOTES:
 8Jan2016
 - [Day 1] Hackbright Crash Course: What is the internet?
@@ -34,6 +35,8 @@ NOTES:
 	"A ship in port is safe, but that is not what ships are for. Sail out to sea and do new things." - Grace Hopper (Rear Admiral; also coined the term "computer bug")
 - https://www.codecademy.com/en/courses/learn-sql/lessons/manipulation/exercises/sql?action=resume
 	- SQL: Structured Query Language
+
+
 
 9Jan2016
 - REGEX!!! looking at https://developers.google.com/edu/python/regular-expressions?hl=en
@@ -51,5 +54,16 @@ NOTES:
 		- Front-end programming languages for user interface, 
 		- Back-end programming languages (e.g. Ruby, Python, PHP, SQL)
 
-"I think it's very important to get more women into computing. My slogan is: Computing is too important to be left to men." - Karen Spärk Jones (Cambridge Computer Laboratory, invented IDF [Intermediate Distribution Frame])
+	"I think it's very important to get more women into computing. My slogan is: Computing is too important to be left to men." - Karen Spärk Jones (Cambridge Computer Laboratory, invented IDF [Intermediate Distribution Frame])
 
+
+
+10Jan2016
+- [Day 3] Hackbright Crash Course: What exactly is programming?
+	- Computers are systems of electrical on/off switches (transistors)
+	- Programming languages help us translate our  desires to 0's and 1's 
+
+	"Know how to learn. Then, want to learn." - Katherine Johnson (NASA Scientist who claculated trajectory of 1969 Apollo 11 mission)
+
+
+-[Day 4] Hackbright Crash Course: What is front end vs. back end?
