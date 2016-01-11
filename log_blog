@@ -11,7 +11,6 @@ I wasn't sure where to begin, so I got in touch with Wendy from Career Services 
 
 
 To-do list (due 1/13):
-
 1. Dedicate 30min to 2 hours per day to coding
 	- Review:
 		- Get back on GitHub, possibly reorganize/consolidate old files
@@ -20,7 +19,6 @@ To-do list (due 1/13):
 	- Start new project or work more on old Hackbright project
 2. Resume Overhaul - email to HB mentor and Wendy to review
 3. Attend Weekly Whiteboarding for HB-Alum
-
 
 
 NOTES:
@@ -35,7 +33,6 @@ NOTES:
 	"A ship in port is safe, but that is not what ships are for. Sail out to sea and do new things." - Grace Hopper (Rear Admiral; also coined the term "computer bug")
 - https://www.codecademy.com/en/courses/learn-sql/lessons/manipulation/exercises/sql?action=resume
 	- SQL: Structured Query Language
-
 
 
 9Jan2016
@@ -57,7 +54,6 @@ NOTES:
 	"I think it's very important to get more women into computing. My slogan is: Computing is too important to be left to men." - Karen Spärk Jones (Cambridge Computer Laboratory, invented IDF [Intermediate Distribution Frame])
 
 
-
 10Jan2016
 - [Day 3] Hackbright Crash Course: What exactly is programming?
 	- Computers are systems of electrical on/off switches (transistors)
@@ -65,5 +61,9 @@ NOTES:
 
 	"Know how to learn. Then, want to learn." - Katherine Johnson (NASA Scientist who claculated trajectory of 1969 Apollo 11 mission)
 
-
 -[Day 4] Hackbright Crash Course: What is front end vs. back end?
+	- Front end languages: HTML, CSS, Javascript
+	- Back end languages: PHP, Ruby, Python
+	- Prgrammers who do both front/back: "Full-stack"
+
+	"I always did something I was a little not ready to do. I think that's how you grow. When there's that moment of, 'Wow, I'm not really sure I can do this,' and you push through those moments, that's when you have a breakthrough." - Marissa Mayer
